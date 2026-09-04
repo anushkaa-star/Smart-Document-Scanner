@@ -351,5 +351,16 @@ Possible future improvements include:
 * Additional image quality metrics
 * Support for batch document processing
 
+## Author
 
+Developed as a Computer Vision course project.
+
+```
+
+### Bas itna karo ab ❤️
+
+1. **Poora code block copy karo**
+2. `README.md` mein paste karo
+3. **Ctrl + S**
+4. Abhi GitHub pe kuch upload/change mat karna.
 
