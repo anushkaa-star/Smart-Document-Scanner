@@ -1,6 +1,3 @@
-Bilkul ❤️ Ek hi **complete `README.md`** de raha hoon. Tum **poora copy → paste → Ctrl+S** kar dena. No need to edit anything right now.
-
-````markdown
 # Smart Document Scanner and Quality Analyzer
 
 A Python-based Computer Vision project that automatically detects a document from an input image, corrects its perspective, enhances its readability, and evaluates the quality of the scanned document.
@@ -354,18 +351,5 @@ Possible future improvements include:
 * Additional image quality metrics
 * Support for batch document processing
 
-## Author
 
-Developed as a Computer Vision course project.
 
-```
-
-### Bas itna karo ab ❤️
-
-1. **Poora code block copy karo**
-2. `README.md` mein paste karo
-3. **Ctrl + S**
-4. Abhi GitHub pe kuch upload/change mat karna.
-
-**Next step:** README save hone ke baad hum `README` ko locally test karenge, phir **Git setup + GitHub repository** karenge. 🚀
-```
