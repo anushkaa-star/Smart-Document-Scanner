@@ -253,8 +253,8 @@ Example:
 
 ```json
 {
-    "blur_score": 1454.24,
-    "brightness": 194.84,
+    "blur_score": 905.2,
+    "brightness": 196.53,
     "messages": [
         "Document quality looks good."
     ]
