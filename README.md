@@ -351,8 +351,5 @@ Possible future improvements include:
 * Additional image quality metrics
 * Support for batch document processing
 
-## Author
-
-Developed as a Computer Vision course project.
 
 
