@@ -68,8 +68,10 @@ Smart-Document-Scanner/
 │   └── test_validation.py
 │
 ├── .gitignore
+├── README.md
 ├── requirements.txt
-└── README.md
+└── statement.md
+
 ````
 
 ## Requirements
