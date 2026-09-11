@@ -44,8 +44,6 @@ The system performs the following steps:
 ```text
 Smart-Document-Scanner/
 │
-├── docs/
-│
 ├── input/
 │   └── document.jpg
 │
